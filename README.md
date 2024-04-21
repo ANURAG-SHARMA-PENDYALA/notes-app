@@ -32,33 +32,58 @@ npx expo install --fix
 
 1. Welcome Screen
 <picture>
-<img alt="Welcome Screen" src="./images/1.jpg" width="150px" style="border-radius: 10px">
+<img alt="Welcome Screen" src="./images/1.jpg" width="150px">
 </picture>
 <br>
 
 2. Initial Note Screen (Notes)
 <picture>
-<img alt="Initial Notes Screen" src="./images/2.jpg" width="150px" style="border-radius: 10px">
+<img alt="Initial Notes Screen" src="./images/2.jpg" width="150px">
 </picture>
 <br>
 
 3. Create Note Screen
 <picture>
-<img alt="Create Note screen" src="./images/3.jpg" width="150px" style="border-radius: 10px">
+<img alt="Create Note screen" src="./images/3.jpg" width="150px">
 </picture>
 <br>
 
-4. Update Note Screen
+4. Updated Note Screen
 <picture>
-<img alt="Update Note screen" src="./images/4.jpg" width="150px" style="border-radius: 10px">
+<img alt="Update Note screen" src="./images/4.jpg" width="150px">
 </picture>
 <br/>
 
 5. Note Preview Screen
 <picture>
-<img alt="Note Preview screen" src="./images/5.jpg" width="150px"  style="border-radius: 10px">
+<img alt="Note Preview screen" src="./images/5.jpg" width="150px">
 </picture>
 <br/>
+
+6. Note Deletion Screen
+<picture>
+<img alt="deletion Screen" src="./images/6.jpg" width="150px">
+</picture>
+<br/>
+
+7. Notes Screen After Deletion
+<picture>
+<img alt="Note Deletion Result" src="./images/7.jpg" width="150px">
+</picture>
+<br/>
+
+8. Note Search Screen
+<picture>
+<img alt="Note Search screen" src="./images/8.jpg" width="150px">
+</picture>
+<br/>
+
+9. Search results not found screen 
+<picture>
+<img alt="Note Search results not found screen" src="./images/9.jpg" width="150px">
+</picture>
+<br/>
+
 
 
 
