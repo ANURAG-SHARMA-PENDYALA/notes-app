@@ -96,11 +96,11 @@ npx expo install --fix
 <footer>
 Thanks for visiting the repo 😀.
 __Technologies used__:
-<img alt="Note Search results not found screen" src="./images/js.jpg" width="50px">
+<img alt="Note Search results not found screen" src="./images/js.png" width="50px">
 <br>
-<img alt="Note Search results not found screen" src="./images/expo.jpg" width="50px">
+<img alt="Note Search results not found screen" src="./images/expo.png" width="50px">
 <br>
-<img alt="Note Search results not found screen" src="./images/react-native.jpg" width="50px">
+<img alt="Note Search results not found screen" src="./images/react-native.png" width="50px">
 
 </footer>
 
