@@ -20,12 +20,18 @@ npm install expo latest
 npx expo install --fix
 
 ```
-> `##1e90ff` Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
+> [!WARNING]
+> Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
 
 3. To start the application type `npx expo start` and scan the qr code in expo app to preview the project.
 
 
 ### Screenshots of the Project
+
+1. Welcome Screen
+<picture>
+<img alt="Welcome Screen" src="./images/1.jpg">
+</picture>
 
 
 
