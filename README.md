@@ -99,10 +99,10 @@ Thanks for visiting the repository 😀.
 <b>Technologies used</b>:
 <div  style="display: flex; width: 300px;
 margin-inline: auto; ">
-<img alt="Note Search results not found screen" src="./images/js.png"  width="50px" style="border-radius: 50%;">
+<img alt="Note Search results not found screen" src="./images/js.png"  width="50px" style=" display: block;border-radius: 50%;">
 
-<img alt="Note Search results not found screen" src="./images/expo.png" width="50px"  style="border-radius: 50%;">
-<img alt="Note Search results not found screen" src="./images/react-native.png" width="50px"  style="border-radius: 50%;">
+<img alt="Note Search results not found screen" src="./images/expo.png" width="50px"  style="display: block;border-radius: 50%;">
+<img alt="Note Search results not found screen" src="./images/react-native.png" width="50px"  style="display: block;border-radius: 50%;">
 </div>
 </footer>
 
