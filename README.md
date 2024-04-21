@@ -20,18 +20,26 @@ npm install expo latest
 npx expo install --fix
 
 ```
-> [!WARNING]
+> [!INFO]
 > Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
 
 3. To start the application type `npx expo start` and scan the qr code in expo app to preview the project.
 
 
 ### Screenshots of the Project
+<hr/>
 
 1. Welcome Screen
 <picture>
 <img alt="Welcome Screen" src="./images/1.jpg" width="150px">
 </picture>
+<br/>
+
+2. Initial Notes Screen
+<picture>
+<img alt="Initial Notes Screen" src="./images/2.jpg" width="150px">
+</picture>
+<br/>
 
 
 
