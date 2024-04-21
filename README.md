@@ -2,7 +2,7 @@
 
 #### Team Members 
 1. Anurag Sharma Pendyala
-2. Nithin
+2. Nithin Janagani
 3. Vani Pulluri
 
 ### Project Description
@@ -20,9 +20,12 @@ npm install expo latest
 npx expo install --fix
 
 ```
-> Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
+> `##1e90ff` Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
 
 3. To start the application type `npx expo start` and scan the qr code in expo app to preview the project.
+
+
+### Screenshots of the Project
 
 
 
