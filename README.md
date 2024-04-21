@@ -1,11 +1,11 @@
 ### Welcome to Notes App Using React Native 📘.
 
-#### Team Members 
+#### Team Members  
 1. Anurag Sharma Pendyala
 2. Nithin Janagani
 3. Vani Pulluri
 
-### Project Description
+### Project Description 
 
 This is the implementation of notes app in react-native using the expo-cli and **AsyncStorage**. Expo CLI is used for developing the app whereas, AsyncStorage is used to perform **CRUD** operations like Creating a note, Remove a note, Update a note and Delete a note. 
 
@@ -17,7 +17,7 @@ __Solution__: The "Note App" tries to solve this problem by providing a way to c
 
 __Target Audience__: The target audience for this app are any individuals who are intrested in taking notes on their mobile phones and have a quick glance to all the important notes whenever and whereever required.
 
-### Running the project
+### Running the project 🚀
 After cloning the project follow the following step to run the project:
 
 1. To install node modules use the `npm i` in the cloned repository.
@@ -93,7 +93,16 @@ npx expo install --fix
 <br/>
 
 
+<footer>
+Thanks for visiting the repo 😀.
+__Technologies used__:
+<img alt="Note Search results not found screen" src="./images/js.jpg" width="50px">
+<br>
+<img alt="Note Search results not found screen" src="./images/expo.jpg" width="50px">
+<br>
+<img alt="Note Search results not found screen" src="./images/react-native.jpg" width="50px">
 
+</footer>
 
 
 
