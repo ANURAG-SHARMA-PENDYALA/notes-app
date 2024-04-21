@@ -34,24 +34,26 @@ npx expo install --fix
 <picture>
 <img alt="Welcome Screen" src="./images/1.jpg" width="150px" style="border-radius: 10px">
 </picture>
-<br/>
+<br>
 
 2. Initial Note Screen (Notes)
 <picture>
 <img alt="Initial Notes Screen" src="./images/2.jpg" width="150px" style="border-radius: 10px">
 </picture>
-<br/>
+<br>
 
 3. Create Note Screen
 <picture>
 <img alt="Create Note screen" src="./images/3.jpg" width="150px" style="border-radius: 10px">
 </picture>
-<br/>
+<br>
+
 4. Update Note Screen
 <picture>
 <img alt="Update Note screen" src="./images/4.jpg" width="150px" style="border-radius: 10px">
 </picture>
 <br/>
+
 5. Note Preview Screen
 <picture>
 <img alt="Note Preview screen" src="./images/5.jpg" width="150px"  style="border-radius: 10px">
