@@ -30,7 +30,7 @@ npx expo install --fix
 
 1. Welcome Screen
 <picture>
-<img alt="Welcome Screen" src="./images/1.jpg">
+<img alt="Welcome Screen" src="./images/1.jpg" width="150px">
 </picture>
 
 
