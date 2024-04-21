@@ -9,6 +9,14 @@
 
 This is the implementation of notes app in react-native using the expo-cli and **AsyncStorage**. Expo CLI is used for developing the app whereas, AsyncStorage is used to perform **CRUD** operations like Creating a note, Remove a note, Update a note and Delete a note. 
 
+__Project Domain__: In this fast-paced world it is really hard to carry a book and pen everywhere you go. Nowadays, Mankind are mostly reliable on technology and smartphones. This project aims to solves this problem through simple note taking application that allows them to keep track of their notes without carrying a notebook everywhere they go.
+
+__Project Objective__: The "Notes App" aims to create a user-friendly app which is simple yet intuitive for everyone. It uses the power of react native and AsyncStorage to accomplish this goal.
+
+__Solution__: The "Note App" tries to solve this problem by providing a way to create notes, update a note, delete a note and Remove a note utilising asynchronous storage module available for react native.
+
+__Target Audience__: The target audience for this app are any individuals who are intrested in taking notes on their mobile phones and have a quick glance to all the important notes whenever and whereever required.
+
 ### Running the project
 After cloning the project follow the following step to run the project:
 
