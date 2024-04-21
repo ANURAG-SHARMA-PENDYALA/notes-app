@@ -6,6 +6,7 @@
 3. Vani Pulluri
 
 ### Project Description
+
 This is the implementation of notes app in react-native using the expo-cli and **AsyncStorage**. Expo CLI is used for developing the app whereas, AsyncStorage is used to perform **CRUD** operations like Creating a note, Remove a note, Update a note and Delete a note. 
 
 ### Running the project
