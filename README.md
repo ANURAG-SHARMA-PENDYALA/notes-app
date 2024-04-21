@@ -1,4 +1,4 @@
-### Notes App Using React Native
+### Welcome to Notes App Using React Native 📘.
 
 #### Team Members 
 1. Anurag Sharma Pendyala
@@ -20,7 +20,7 @@ npm install expo latest
 npx expo install --fix
 
 ```
-> [!INFO]
+> [!NOTE]
 > Note : Do this if and only if your expo version is not up-to-date. You can check your version in package.json
 
 3. To start the application type `npx expo start` and scan the qr code in expo app to preview the project.
@@ -29,17 +29,36 @@ npx expo install --fix
 ### Screenshots of the Project
 <hr/>
 
+<div style="display: flex;">
 1. Welcome Screen
 <picture>
-<img alt="Welcome Screen" src="./images/1.jpg" width="150px">
+<img alt="Welcome Screen" src="./images/1.jpg" width="150px" style="border-radius: 10px">
 </picture>
 <br/>
 
-2. Initial Notes Screen
+2. Initial Note Screen (Notes)
 <picture>
-<img alt="Initial Notes Screen" src="./images/2.jpg" width="150px">
+<img alt="Initial Notes Screen" src="./images/2.jpg" width="150px" style="border-radius: 10px">
 </picture>
 <br/>
+
+3. Create Note Screen
+<picture>
+<img alt="Create Note screen" src="./images/3.jpg" width="150px" style="border-radius: 10px">
+</picture>
+<br/>
+4. Update Note Screen
+<picture>
+<img alt="Update Note screen" src="./images/4.jpg" width="150px" style="border-radius: 10px">
+</picture>
+<br/>
+5. Note Preview Screen
+<picture>
+<img alt="Note Preview screen" src="./images/5.jpg" width="150px"  style="border-radius: 10px">
+</picture>
+<br/>
+</div>
+
 
 
 
