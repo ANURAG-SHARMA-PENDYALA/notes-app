@@ -29,7 +29,7 @@ npx expo install --fix
 ### Screenshots of the Project
 <hr/>
 
-<div style="display: flex;">
+
 1. Welcome Screen
 <picture>
 <img alt="Welcome Screen" src="./images/1.jpg" width="150px" style="border-radius: 10px">
@@ -57,7 +57,7 @@ npx expo install --fix
 <img alt="Note Preview screen" src="./images/5.jpg" width="150px"  style="border-radius: 10px">
 </picture>
 <br/>
-</div>
+
 
 
 
