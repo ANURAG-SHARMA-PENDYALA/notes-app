@@ -92,7 +92,7 @@ npx expo install --fix
 </picture>
 <br/>
 
-[![Watch the video](https://mailuc-my.sharepoint.com/:v:/g/personal/pendyaam_mail_uc_edu/Ea-qVIRZ0Y9Nk9lOre-1lLcBm88LzHMYkJ4wnCVQOFk3fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UtRjjZ)]
+'https://mailuc-my.sharepoint.com/:v:/g/personal/pendyaam_mail_uc_edu/Ea-qVIRZ0Y9Nk9lOre-1lLcBm88LzHMYkJ4wnCVQOFk3fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UtRjjZ'
 
 <footer>
 <b>Technologies used</b>:
