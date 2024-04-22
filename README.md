@@ -2,7 +2,7 @@
 
 #### Team Members  
 1. Anurag Sharma Pendyala
-2. Nithin Janagani
+2. Nithin Reddy Janagani
 3. Vani Pulluri
 
 ### Project Description 
