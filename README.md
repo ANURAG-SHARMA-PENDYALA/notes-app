@@ -92,6 +92,7 @@ npx expo install --fix
 </picture>
 <br/>
 
+[![Watch the video](./assets/Tfm.mp4)]
 
 <footer>
 <b>Technologies used</b>:
